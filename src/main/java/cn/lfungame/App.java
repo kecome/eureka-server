@@ -2,7 +2,7 @@ package cn.lfungame;
 
 /**
  * Hello world!
- *gfgf
+ *gfgfdfd
  */
 public class App 
 {
