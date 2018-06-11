@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * @Auther: xuke
  * @Date: 2018/5/14 17:54
- * @Description:
+ * @Description:t
  */
 @SpringBootApplication
 @EnableEurekaServer
